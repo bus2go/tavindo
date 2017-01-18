@@ -1,9 +1,9 @@
-[submodule "tavindo-load-gtfs"]
-	path = tavindo-load-gtfs
-	url = git@github.com:u2r3/tavindo-load-data.git
-[submodule "tavindo-busca-gps"]
-	path = tavindo-busca-gps
-	url = git@github.com:u2r3/tavindo-busca-gps-rio.git
 [submodule "tavindo-web"]
 	path = tavindo-web
 	url = git@github.com:u2r3/tavindo-web.git
+[submodule "tavindo-load-data"]
+	path = tavindo-load-data
+	url = git@github.com:u2r3/tavindo-load-data.git
+[submodule "tavindo-busca-gps-rio"]
+	path = tavindo-busca-gps-rio
+	url = git@github.com:u2r3/tavindo-busca-gps-rio.git
