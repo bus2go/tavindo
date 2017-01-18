@@ -1,0 +1,9 @@
+[submodule "tavindo-load-gtfs"]
+	path = tavindo-load-gtfs
+	url = git@bitbucket.org:mal98a/tavindo-load-gtfs.git
+[submodule "tavindo-busca-gps"]
+	path = tavindo-busca-gps
+	url = git@bitbucket.org:mal98a/tavindo-busca-gps.git
+[submodule "tavindo-web"]
+	path = tavindo-web
+	url = git@bitbucket.org:mal98a/tavindo-web.git
